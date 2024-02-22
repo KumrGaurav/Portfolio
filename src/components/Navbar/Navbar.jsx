@@ -14,7 +14,7 @@ export const Navbar = () => {
   return (
     <nav className={styles.navbar}>
       <div class={styles.title}>
-          <img src="public/logo.png" alt="Portfolio Logo" onClick={handleClick}/>
+          <img src="/logo.png" alt="Portfolio Logo" onClick={handleClick}/>
       </div>
 
 
