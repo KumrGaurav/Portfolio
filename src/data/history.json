@@ -1,0 +1,23 @@
+[
+    {
+      "role": "LeetCode",
+      "experiences": ["Successfully solved over 170+ complex problems on LeetCode, demonstrating a high level of analytical thinking and coding expertise."],
+      "imageSrc": "history/leetcode.png",
+      "link": "https://leetcode.com/gaurav_41/"
+    },
+    {
+      "role": "HackerRank",
+      "experiences": ["Attained a 5-Star rating in JAVA on HackerRank, showcasing advanced proficiency and problem-solving skills."],
+      "imageSrc": "history/hacker.png",
+      "link": "https://www.hackerrank.com/profile/kgaurav852201"
+    },
+    {
+      "role": "CodeChef",
+      "experiences": [
+        "Awarded a prestigious Bronze Badge on CodeChef, highlighting exceptional performance in competitive programming and algorithmic challenges."
+      ],
+      "imageSrc": "history/codechef.png",
+      "link": "https://www.codechef.com/users/kgaurav852201"
+    }
+  ]
+  

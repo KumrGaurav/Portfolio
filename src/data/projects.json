@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Real Estate Front_End",
+      "imageSrc": "projects/realestate.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["React js", "Css", "HTML"],
+      "demo": "https://real-estatewebpage.pages.dev/",
+      "source": "https://github.com/KumrGaurav/Real_Estate_web_page"
+    },
+    {
+      "title": "Fit-Club Gym Web page",
+      "imageSrc": "projects/fitclub.png",
+      "description": "Browse, book fitness classes, track progress, achieve goals.",
+      "skills": ["React js", "CSS", "HTML"],
+      "demo": "https://65bb76b5b7f89f685603059f--cheerful-figolla-2ab70b.netlify.app/ ",
+      "source": "https://github.com/KumrGaurav/Fit-Club-Gym"
+    },
+    {
+      "title": "Weather Forecast Web app",
+      "imageSrc": "projects/weather.png",
+      "description": "Accurate forecasts, real-time updates, simple interface for quick access.",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "https://kumrgaurav.github.io/WeatherWebApp/",
+      "source": "https://github.com/KumrGaurav/WeatherWebApp"
+    }
+  ]
+  
