@@ -20,7 +20,7 @@ export const Hero = () => {
           together!
         </p>
         <a
-          href="https://drive.google.com/file/d/1AZy380T6ir8pPP74sEzD_hWaJy6IPlJQ/view?usp=sharing"
+          href="https://drive.google.com/file/d/1HC4SzghcWvxT9rOwG5kNwZJLe7nb29YT/view?usp=sharing"
           className={styles.resumeBtn}
         >
           View Resume
