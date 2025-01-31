@@ -7,6 +7,7 @@
       "title": "CSS",
       "imageSrc": "skills/css.png"
     },
+    
     {
       "title": "React",
       "imageSrc": "skills/react.png"
@@ -24,6 +25,18 @@
       "imageSrc": "skills/java.png"
     },
     {
+      "title": "J2EE",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "Hibernate",
+      "imageSrc": "skills/hibernate.png"
+    },
+    {
+      "title": "Spring",
+      "imageSrc": "skills/spring.png"
+    },
+    {
       "title": "C++",
       "imageSrc": "skills/cpp.png"
     },
@@ -34,6 +47,10 @@
     {
       "title": "ML",
       "imageSrc": "skills/ML.png"
+    },
+    {
+      "title": "React-Native",
+      "imageSrc": "skills/react.png"
     },
     {
       "title": "Figma",

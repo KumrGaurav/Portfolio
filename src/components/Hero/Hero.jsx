@@ -12,10 +12,17 @@ export const Hero = () => {
           Hi, I'm <span className={styles.name}>Gaurav</span>
         </h1>
         <p className={styles.description}>
-          I'm a Passionate and innovative MCA student at BIT Mesra with expertise in Java, C++, HTML, CSS, and JavaScript. 
-          Skilled in web development, problem-solving, and enthusiastic about coding, music, and cricket. Let's connect!
+          As a dedicated tech enthusiast and recent MCA graduate from BIT Mesra,
+          I bring a wealth of knowledge in React Js, React Native, Java, C++,
+          HTML, CSS, and JavaScript. With a strong foundation in web development
+          and a knack for solving complex problems, I am also passionate about
+          coding, music, and cricket. I'm excited to collaborate and innovate
+          together!
         </p>
-        <a href="https://drive.google.com/file/d/1AZy380T6ir8pPP74sEzD_hWaJy6IPlJQ/view?usp=sharing" className={styles.resumeBtn}>
+        <a
+          href="https://drive.google.com/file/d/1AZy380T6ir8pPP74sEzD_hWaJy6IPlJQ/view?usp=sharing"
+          className={styles.resumeBtn}
+        >
           View Resume
         </a>
       </div>

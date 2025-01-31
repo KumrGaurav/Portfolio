@@ -17,10 +17,11 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/frontend.png")} alt="Front End icon" width="100" height="100"/>
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
+              <h3>Full Stack Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I'm a full stack developer with experience in building responsive
+                and optimized web applications using React js, HTML, CSS, JavaScript, and
+                backend technologies like Node.js and Java.
               </p>
             </div>
           </li>
