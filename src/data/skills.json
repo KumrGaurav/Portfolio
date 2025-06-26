@@ -7,7 +7,10 @@
       "title": "CSS",
       "imageSrc": "skills/css.png"
     },
-    
+    {
+      "title": "Tailwind",
+      "imageSrc": "skills/tailwindcss.png"
+    },
     {
       "title": "React",
       "imageSrc": "skills/react.png"
@@ -33,8 +36,12 @@
       "imageSrc": "skills/hibernate.png"
     },
     {
-      "title": "Spring",
+      "title": "Spring MVC",
       "imageSrc": "skills/spring.png"
+    },
+    {
+      "title": "Spring Boot",
+      "imageSrc": "skills/springboot.png"
     },
     {
       "title": "C++",
