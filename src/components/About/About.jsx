@@ -21,7 +21,7 @@ export const About = () => {
               <p>
                 I'm a full stack developer with experience in building responsive
                 and optimized web applications using React js, HTML, CSS, JavaScript, and
-                backend technologies like Node.js and Java.
+                backend technologies like Spring Boot and Java.
               </p>
             </div>
           </li>
@@ -40,7 +40,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Programming Proficiency</h3>
               <p>
-                Skilled in Java, C++, HTML, CSS, JavaScript, Python, SQL, and Power BI.
+                Skilled in Java C++, HTML, CSS, JavaScript, Python, SQL, and Power BI.
               </p>
             </div>
           </li>

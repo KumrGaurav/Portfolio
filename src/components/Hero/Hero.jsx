@@ -12,8 +12,8 @@ export const Hero = () => {
           Hi, I'm <span className={styles.name}>Gaurav</span>
         </h1>
         <p className={styles.description}>
-          As a dedicated tech enthusiast and recent MCA graduate from BIT Mesra,
-          I bring a wealth of knowledge in React Js, React Native, Java, C++,
+          As a dedicated tech enthusiast and recent MCA graduate from BIT Noida,
+          I bring a wealth of knowledge in React Js, React Native, Java, Spring Boot, C++,
           HTML, CSS, and JavaScript. With a strong foundation in web development
           and a knack for solving complex problems, I am also passionate about
           coding, music, and cricket. I'm excited to collaborate and innovate
